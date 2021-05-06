@@ -3,7 +3,7 @@ Good morning! I'm Julian, a developer and curious guy from Long Island, NY.
 
 - 📚 I'm finishing up my degree in Computer Programming at Farmingdale State College. I'm also the founder of the Tech Club here.
 - 💻 I'm currently working as a Full Stack Web Development Instructor at [Nucamp]. I teach students, help debug their code, and answer questions any time.
-- 🚧 [Barbago](https://github.com/barbago) is my personal project, which I hope to make into a great startup!
+- 🚧 [Barbago](https://github.com/julian-hecker/barbago) is my personal project, which I hope to make into a great startup!
 
 
 
