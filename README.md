@@ -1,8 +1,9 @@
 # 👨‍💻 Julian Hecker — [@julian-hecker](https://github.com/julian-hecker/)
-Good morning! I'm Julian, a developer and curious guy from Long Island, NY. 
+Good morning! I'm Julian, a developer and curious guy living in Raleigh, North Carolina.
 
-- 📚 I'm finishing up my degree in Computer Programming at Farmingdale State College. I'm also the founder of the Tech Club here.
-- 💻 I'm currently working as a Full Stack Web Development Instructor at [Nucamp]. I teach students, help debug their code, and answer questions any time.
+- 📚 I've just finished up my BS degree of Computer Programming at Farmingdale State College. I'm also the founder of the Tech Club there.
+- 💻 I'm currently working as a Software Engineer for Railinc in North Carolina. Basically making sure trains arrive safely and on time :)
+- 👨‍🏫 I'm also teaching part time as a Full Stack Web Development Instructor at [Nucamp]. I teach students, help debug their code, and answer questions any time.
 - 🚧 [Barbago](https://github.com/julian-hecker/barbago) is my personal project, which I hope to make into a great startup!
 
 
