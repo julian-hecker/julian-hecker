@@ -2,8 +2,7 @@
 Good morning! I'm Julian, a developer and curious guy living in Raleigh, North Carolina.
 
 - 📚 I've just finished up my BS degree of Computer Programming at Farmingdale State College. I'm also the founder of the Tech Club there.
-- 💻 I'm currently working as a Software Engineer for Railinc in North Carolina. Basically making sure trains arrive safely and on time :)
-- 👨‍🏫 I'm also teaching part time as a Full Stack Web Development Instructor at [Nucamp]. I teach students, help debug their code, and answer questions any time.
+- 💻 I'm currently working as a Software Engineer for LexisNexis in North Carolina, the Google of the legal world :)
 - 🚧 [Barbago](https://github.com/julian-hecker/barbago) is my personal project, which I hope to make into a great startup!
 
 
