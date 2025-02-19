@@ -1,11 +1,9 @@
 # 👨‍💻 Julian Hecker — [@julian-hecker](https://github.com/julian-hecker/)
 Good morning! I'm Julian, a developer and curious guy living in Raleigh, North Carolina.
 
-- 📚 I've just finished up my BS degree of Computer Programming at Farmingdale State College. I'm also the founder of the Tech Club there.
-- 💻 I'm currently working as a Software Engineer for LexisNexis in North Carolina, the Google of the legal world :)
-- 🚧 [Barbago](https://github.com/julian-hecker/barbago) is my personal project, which I hope to make into a great startup!
-
-
+- 📚 I got my BS degree of Computer Programming from Farmingdale State College, New York. I also founded the school's Tech Club.
+- 💻 I'm currently working as a Software Engineer for Victra (@AWirelessDev) in North Carolina.
+- 🚧 I have several personal projects which I hope to make into great startups.
 
 ## Greet Me 👋
 Come see me on any of these platforms:
