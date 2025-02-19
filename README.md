@@ -11,5 +11,3 @@ Come see me on any of these platforms:
 - 🐦 Twitter: https://twitter.com/Julianheckerdev
 - ℹ️ LinkedIn: https://www.linkedin.com/in/julianheckerdev
 - ⚙️ Devpost: https://devpost.com/julian-hecker
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julian-hecker&layout=compact&theme=synthwave)](https://github.com/julian-hecker)
